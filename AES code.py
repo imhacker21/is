@@ -1,4 +1,6 @@
 #Run this command in CMD/Terminal: pip install pycryptodome
+or
+python -m pip install pycryptodome
 
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
